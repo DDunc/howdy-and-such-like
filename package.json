@@ -1,0 +1,15 @@
+{
+  "name": "howdy-and-such-like",
+  "version": "0.0.1",
+  "description": "",
+  "main": "testfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node testfile.js"
+  },
+  "author": "Duncan",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
